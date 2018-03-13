@@ -1,0 +1,4 @@
+#Mon Mar 12 16:26:26 CST 2018
+base.0=E\:\\APPS\\OptionsMenuDemo\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+path.0=classes.dex
+renamed.0=classes.dex
