@@ -40,7 +40,7 @@ public class IseDemo extends Activity implements OnClickListener {
 	private Button mIseStartButton;
 	private Toast mToast;
 
-	// 评测语种测试一下git
+	// 评测语种
 	private String language;
 	// 评测题型
 	private String category;
